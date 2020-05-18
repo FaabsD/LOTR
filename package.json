@@ -1,0 +1,25 @@
+{
+  "name": "lotr",
+  "version": "1.0.0",
+  "description": "Bootstrap oefening ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaabsD/LOTR.git"
+  },
+  "keywords": [
+    "LOTR",
+    "Bootstrap",
+    "Oefening",
+    "Fro"
+  ],
+  "author": "Fabian Hendriks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FaabsD/LOTR/issues"
+  },
+  "homepage": "https://github.com/FaabsD/LOTR#readme"
+}
